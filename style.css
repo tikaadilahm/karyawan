@@ -1,0 +1,56 @@
+body{
+    background-color: #e5e5e5;
+}
+.meta-post{
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+.header header{
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    background-color: #00BFFF;
+    padding: 10px 20px;
+}
+nav.menus{
+    background-color: #87CEEB;
+    padding: 10px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+nav.menus ul{
+    margin: 0;
+    padding: 0;
+}
+nav.menus ul li{
+    display: inline-block;
+}
+nav.menus ul li a{
+    display: block;
+    padding: 3px 7px;
+    color: #fff;
+}
+nav.menus ul li a:hover, nav.menus ul li a:focus{
+    text-decoration:none;
+    background-color: #F4A460;
+    color: #fff;
+}
+article.posts{
+    padding: 10px 20px;
+    background-color: #fff;
+    margin-top: 20px;
+    border-radius: 20px;
+}
+footer.copyright{
+    margin-top: 20px;
+    padding: 10px 20px;
+    font-size: 12px;
+    background-color: #00BFFF;
+    font-size: 10pt ; color:white;
+    border-radius: 20px;
+
+}
+
+label.error{
+
+    color: red;
+}
